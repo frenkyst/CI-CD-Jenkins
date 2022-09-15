@@ -127,9 +127,21 @@
 
     ![image](https://user-images.githubusercontent.com/40049149/190465777-c47bc566-1e6c-480d-a7cb-117f851e9483.png)
 
+23. Pastikan SSH Agent terinstall
 
+    ![image](https://user-images.githubusercontent.com/40049149/190467827-3f6050b2-0a50-4009-9e3c-6a1b725171cc.png)
 
+24. Add Credential
 
+    ![Screenshot from 2022-09-16 00-17-23](https://user-images.githubusercontent.com/40049149/190469473-fb4882eb-6a55-4b62-9c10-19eac3c747eb.png)
+
+25. Masukan secret Key ssh jika sudah klik add
+
+    ![image](https://user-images.githubusercontent.com/40049149/190469668-f58e0581-dd6b-4689-9141-c4c017761370.png)
+
+26. Jika sudah semua klik Save
+
+    ![image](https://user-images.githubusercontent.com/40049149/190469967-7fc2bbec-8c72-4f19-9d99-a121365b2769.png)
 
 
 
