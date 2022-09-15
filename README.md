@@ -59,8 +59,15 @@
 
    ![image](https://user-images.githubusercontent.com/40049149/190441802-a8802204-8f6f-47ed-8456-05003143d4cf.png)
 
-   ![image](https://user-images.githubusercontent.com/40049149/190445666-e6b2df9d-8466-4cc0-92dd-4b24c0544e1e.png)
+7. Jalankan perintah berikut 
 
+       docker logs jenkins
+       
+   ![image](https://user-images.githubusercontent.com/40049149/190452622-94bf88ac-5717-45bd-8df5-09138005418d.png)
+
+8. Buka ip public:8080 
+
+   ![image](https://user-images.githubusercontent.com/40049149/190452820-2d957736-45a0-4c12-8732-93b1594d1f89.png)
 
 
 
