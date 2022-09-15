@@ -93,6 +93,45 @@
 
     ![image](https://user-images.githubusercontent.com/40049149/190454037-64588e23-8320-48fa-89bc-f61114c6f97d.png) 
 
+15. Clone aplikasi yang akan di deploy
+
+        git clone https://github.com/dumbwaysdev/housy-backend
+
+    ![image](https://user-images.githubusercontent.com/40049149/190454708-682113a7-29c7-4805-9087-939f2559b549.png)
+
+16. Ke directory housy-backend dan bikin file Jenkinsfile
+
+    ![image](https://user-images.githubusercontent.com/40049149/190456558-5bc9b92d-79a4-4cbf-bf71-b004689a64d1.png)
+
+17. Push ke repository git
+
+    ![image](https://user-images.githubusercontent.com/40049149/190462386-517a9e69-d0cf-498f-a004-2e8a9a476ab8.png)
+
+18. Buat credential baru http://ipkalian:8080/manage/credentials/
+
+    ![image](https://user-images.githubusercontent.com/40049149/190463577-826e46d1-c39d-48eb-964c-76003c72b7fb.png)
+
+19. Pilih Pipeline
+
+    ![image](https://user-images.githubusercontent.com/40049149/190463886-0c8986ab-c76c-45bd-a1ed-97f36cbcedf8.png)
+
+20. Ceklis bagian __GitHub hook trigger for GITScm polling__
+
+    ![image](https://user-images.githubusercontent.com/40049149/190464499-556bb996-7248-44e1-a8f1-3668f49bd1ac.png)
+
+21. Pilih Pipeline script from SCM
+
+    ![image](https://user-images.githubusercontent.com/40049149/190465515-d23c59e8-4a52-41a4-b328-2c3cb62f1c04.png)
+
+22. Pilih Git
+
+    ![image](https://user-images.githubusercontent.com/40049149/190465777-c47bc566-1e6c-480d-a7cb-117f851e9483.png)
+
+
+
+
+
+
 
 
 
