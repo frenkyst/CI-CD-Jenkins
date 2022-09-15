@@ -69,13 +69,29 @@
 
    ![image](https://user-images.githubusercontent.com/40049149/190452820-2d957736-45a0-4c12-8732-93b1594d1f89.png)
 
+9. Pilih __Install suggested plugins__
 
+   ![Screenshot from 2022-09-15 23-05-32](https://user-images.githubusercontent.com/40049149/190453292-676f9fe5-3f12-474b-b6ae-cca0e465de41.png)
 
+10. Tunggu sampai ceklis semua
 
+    ![Screenshot from 2022-09-15 23-06-34](https://user-images.githubusercontent.com/40049149/190453395-a70de0b1-4822-4b04-b6c4-8bf5a8805af1.png)
 
+11. Isi sesuai kententuan
 
+    ![image](https://user-images.githubusercontent.com/40049149/190453699-54ccaf45-e894-4e4b-8811-4aace8778179.png)
 
+12. Biarkan default klik finish
 
+    ![image](https://user-images.githubusercontent.com/40049149/190453786-8f3657d7-c773-445c-989b-648aa8dd502c.png)   
+
+13. Lanjut skip aja
+
+    ![image](https://user-images.githubusercontent.com/40049149/190453925-1b3c0c25-f684-4ffb-bebf-83bc15d3a573.png)
+
+14. Jika sudah seperti ini sudah berhasil
+
+    ![image](https://user-images.githubusercontent.com/40049149/190454037-64588e23-8320-48fa-89bc-f61114c6f97d.png) 
 
 
 
